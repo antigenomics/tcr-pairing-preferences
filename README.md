@@ -1,5 +1,6 @@
-# tcr-pairing-preferences
-TCR chain pairing preferences: interactions and restriction of alpha and beta chain sequences in T-cell receptors
+# TCR chain pairing preferences
+
+Inferring interactions and restriction of alpha and beta chain sequences in T-cell receptors
 
 ### Content:
 
@@ -13,3 +14,8 @@ TCR chain pairing preferences: interactions and restriction of alpha and beta ch
 * Clone ID - the id of clone. TCR alpha/beta records having the same sample id and clone id are considered paired.
 
 Sequences were re-aligned using MIXCR and filtered from unmapped reads and non-coding TCRs. Only paired records were retained post-filtering.
+
+Amino acid properties:
+
+* [Kidera factors](https://link.springer.com/article/10.1007/BF01025492): ``prop_kidera.txt``
+* [Miyazawa-Jernigan matrix](https://www.ncbi.nlm.nih.gov/pubmed/8604144) aka statistical potential: ``prop_mj96t3.txt``
