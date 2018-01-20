@@ -1,0 +1,79 @@
+---
+title: "Untitled"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(Biostrings)
+library(parallel)
+library(data.table)
+library(dplyr)
+library(stringr)
+library(ggplot2)
+library(RColorBrewer)
+select = dplyr::select 
+```
+
+Load V segments
+
+```{r}
+df.v = fread("251117.cdr12.txt") %>%
+  mutate(v = gene, gene = substr(gene, 1, 3)) %>%
+  select(species, gene, v, seqaa) %>%
+  filter(gene %in% c("TRA", "TRB"))
+```
+
+All combinations
+
+```{r}
+df.v.comb = df.v %>% mutate(v.1 = v, seqaa.1 = seqaa) %>% select(-v, -seqaa) %>%
+  merge(df.v %>% mutate(v.2 = v, seqaa.2 = seqaa) %>% select(-v, -seqaa))
+```
+
+Compute distances
+
+```{r}
+aln_fun = function(s1, s2) {
+  score(pairwiseAlignment(AAString(s1),
+                          AAString(s2),
+                          substitutionMatrix = "BLOSUM62"))
+}
+
+df.v.comb$score = mcmapply(function(a,b) aln_fun(a, b),
+                           df.v.comb$seqaa.1, df.v.comb$seqaa.2,
+                           mc.cores = 80)
+```
+
+Normalize distances
+
+```{r}
+df.v.comb = df.v.comb %>%
+  group_by(species, gene) %>%
+  mutate(score.s = sum(score)) %>%
+  group_by(species, gene, v.1) %>%
+  mutate(score.s1 = sum(score), score.m1 = score[which(v.2 == v.1)]) %>%
+  group_by(species, gene, v.2) %>%
+  mutate(score.s2 = sum(score), score.m2 = score[which(v.2 == v.1)]) %>%
+  ungroup %>%
+  mutate(score.norm.m = score - pmax(score.m1, score.m2),
+         score.norm.s = score * score.s / score.s1 / score.s2)
+```
+
+```{r fig.width=24, fig.height=20}
+ggplot(df.v.comb, aes(x=gsub("TR", "", str_split_fixed(v.1, fixed("*"), 2)[,1]), 
+                      y=gsub("TR", "", str_split_fixed(v.2, fixed("*"), 2)[,1]), 
+                      fill = score.norm.m)) +
+  geom_tile() +
+  facet_wrap(species ~ gene, scales = "free") +
+  xlab("") + ylab("") +
+  scale_fill_gradientn("V score",
+                       colors=colorRampPalette(rev(brewer.pal(11, 'RdYlBu')))(32)) +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+```
