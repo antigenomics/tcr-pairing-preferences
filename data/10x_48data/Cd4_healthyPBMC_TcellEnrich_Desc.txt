@@ -1,0 +1,11 @@
+CD4+ helper T cells from mononuclear cells of a healthy donor
+Single Cell Immune Profiling Dataset by Cell Ranger 2.1.0
+
+CD4+ helper T cells from mononuclear cells of a healthy donor, purchased from AllCells (Catalog # : PB009-2-0), >90% viable by Trypan blue stain.
+
+~3,480 total cells loaded
+~2,036 expected TCR-expressing cells recovered (based on cell count accuracy, cell viability, capture efficiency and TCR-expressing cell fraction)
+1,457 cells detected with either single TRA or TRB or both
+856 cells with productive V-J spanning (TRA,TRB) pair
+Sequenced on Illumina Hiseq4000 with approximately 7,700 read pairs per cell
+150bp read1 (including 16bp Chromium barcode, 10bp UMI and transcript), 150bp read2 (transcript), and 8bp I7 sample barcode
