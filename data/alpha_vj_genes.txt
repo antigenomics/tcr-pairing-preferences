@@ -1,0 +1,254 @@
+>lcl|NG_001332.3_prot_1 [gene=TRAV1-1] [db_xref=GeneID:28693] [partial=3'] [exception=rearrangement required for product] [location=join(1..43,382..>664)] [gbkey=CDS]
+MWGAFLLYVSMKMGGTAGQSLEQPSEVTAVEGAIVQINCTYQTSGFYGLSWYQQHDGGAPTFLSYNALDGLEETGRFSSFLSRSDSYGYLLLQELQMKDSASYFCAVR
+>lcl|NG_001332.3_prot_NP_001005466.2_2 [gene=OR10G2] [db_xref=CCDS:CCDS32047.1,GeneID:26534] [protein=olfactory receptor 10G2] [protein_id=NP_001005466.2] [location=complement(12007..12939)] [gbkey=CDS]
+MGKTKNTSLDAVVTDFILLGLSHPPNLRSLLFLVFFIIYILTQLGNLLILLTMWADPKLCARPMYILLGVLSFLDMWLSSVTVPLLILDFTPSIKAIPFGGCVAQLYFFHFLGSTQCFLYTLMAYDRYLAICQPLRYPVLMNGRLCTVLVAGAWVAGSMHGSIQATLTFRLPYCGPNQVDYFICDIPAVLRLACADTTVNELVTFVDVGVVAASCFMLILLSYANIVNAILKIRTTDGRRRAFSTCGSHLIVVTVYYVPCIFIYLRAGSKDPLDGAAAVFYTVVTPLLNPLIYTLRNQEVKSALKRITAG
+>lcl|NG_001332.3_prot_3 [gene=TRAV1-2] [db_xref=GeneID:28692] [partial=3'] [exception=rearrangement required for product] [location=join(21070..21112,21401..>21683)] [gbkey=CDS]
+MWGVFLLYVSMKMGGTTGQNIDQPTEMTATEGAIVQINCTYQTSGFNGLFWYQQHAGEAPTFLSYNVLDGLEEKGRFSSFLSRSKGYSYLLLKELQMKDSASYLCAVR
+>lcl|NG_001332.3_prot_NP_001001912.2_4 [gene=OR4E2] [db_xref=CCDS:CCDS41916.1,GeneID:26686] [protein=olfactory receptor 4E2] [protein_id=NP_001001912.2] [location=43180..44121] [gbkey=CDS]
+MDSLNQTRVTEFVFLGLTDNRVLEMLFFMAFSAIYMLTLSGNILIIIATVFTPSLHTPMYFFLSNLSFIDICHSSVTVPKMLEGLLLERKTISFDNCITQLFFLHLFACAEIFLLIIMAYDRYVAICTPLHYPNVMNMRVCIQLVFALWLGGTVHSLGQTFLTIRLPYCGPNIIDSYFCDVPLVIKLACTDTYLTGILIVTNSGTISLSCFLAVVTSYMVILVSLRKHSAEGRRKALSTCSAHFMVVALFFGPCIFIYTRPDTSFSIDKVVSVFYTVVTPLLNPFIYTLRNEEVKSAMKQLRQRQVFFTKSYT
+>lcl|NG_001332.3_prot_NP_001304036.1_5 [gene=OR4E1] [db_xref=CCDS:CCDS86370.1,GeneID:26687] [protein=olfactory receptor 4E1] [protein_id=NP_001304036.1] [location=complement(48085..49032)] [gbkey=CDS]
+MEEAILLNQTSLVTYFRLRGLSVNHKARIAMFSMFLIFYVLTLIGNVLIVITIIYDHRLHTPMYFFLSNLSFIDVCHSTVTVPKMLRDVWSEEKLISFDACVTQMFFLHLFACTEIFLLTVMAYDRYVAICKPLQYMIVMNWKVCVLLAVALWTGGTIHSIALTSLTIKLPYCGPDEIDNFFCDVPQVIKLACIDTHVIEILIVSNSGLISVVCFVVLVVSYAVILVSLRQQISKGKRKALSTCAAHLTVVTLFLGHCIFIYSRPSTSLPEDKVVSVFFTAVTPLLNPIIYTLRNEEMKSALNKLVGRKERKEEK
+>lcl|NG_001332.3_prot_6 [gene=TRAV2] [db_xref=GeneID:28691] [partial=3'] [exception=rearrangement required for product] [location=join(90428..90491,90667..>90940)] [gbkey=CDS]
+MALQSTLGAVWLGLLLNSLWKVAESKDQVFQPSTVASSEGAVVEIFCNHSVSNAYNFFWYLHFPGCAPRLLVKGSKPSQQGRYNMTYERFSSSLLILQVREADAAVYYCAVE
+>lcl|NG_001332.3_prot_7 [gene=TRAV3] [db_xref=GeneID:28690] [partial=3'] [exception=rearrangement required for product] [location=join(101986..102031,102122..>102418)] [gbkey=CDS]
+MASAPISMLAMLFTLSGLRAQSVAQPEDQVNVAEGNPLTVKCTYSVSGNPYLFWYVQYPNRGLQFLLKYITGDNLVKGSYGFEAEFNKSQTSFHLKKPSALVSDSALYFCAVRD
+>lcl|NG_001332.3_prot_8 [gene=TRAV4] [db_xref=GeneID:28689] [partial=3'] [exception=rearrangement required for product] [location=join(114316..114355,114792..>115079)] [gbkey=CDS]
+MRQVARVIVFLTLSTLSLAKTTQPISMDSYEGQEVNITCSHNNIATNDYITWYQQFPSQGPRFIIQGYKTKVTNEVASLFIPADRKSSTLSLPRVSLSDTAVYYCLVGD
+>lcl|NG_001332.3_prot_9 [gene=TRAV5] [db_xref=GeneID:28688] [partial=3'] [exception=rearrangement required for product] [location=join(127287..127338,127515..>127802)] [gbkey=CDS]
+MKTFAGFSFLFLWLQLDCMSRGEDVEQSLFLSVREGDSSVINCTYTDSSSTYLYWYKQEPGAGLQLLTYIFSNMDMKQDQRLTVLLNKKDKHLSLRIADTQTGDSAIYFCAES
+>lcl|NG_001332.3_prot_10 [gene=TRAV6] [db_xref=GeneID:6956] [partial=3'] [exception=rearrangement required for product] [location=join(146650..146701,146890..>147177)] [gbkey=CDS]
+MESFLGGVLLILWLQVDWVKSQKIEQNSEALNIQEGKTATLTCNYTNYSPAYLQWYRQDPGRGPVFLLLIRENEKEKRKERLKVTFDTTLKQSLFHITASQPADSATYLCALD
+>lcl|NG_001332.3_prot_11 [gene=TRAV7] [db_xref=GeneID:28686] [partial=3'] [exception=rearrangement required for product] [location=join(161090..161141,161316..>161600)] [gbkey=CDS]
+MEKMRRPVLIIFCLCLGWANGENQVEHSPHFLGPQQGDVASMSCTYSVSRFNNLQWYRQNTGMGPKHLLSMYSAGYEKQKGRLNATLLKNGSSLYITAVQPEDSATYFCAVD
+>lcl|NG_001332.3_prot_12 [gene=TRAV8-1] [db_xref=GeneID:28685] [partial=3'] [exception=rearrangement required for product] [location=join(175516..175561,175689..>175983)] [gbkey=CDS]
+MLLLLIPVLGMIFALRDARAQSVSQHNHHVILSEAASLELGCNYSYGGTVNLFWYVQYPGQHLQLLLKYFSGDPLVKGIKGFEAEFIKSKFSFNLRKPSVQWSDTAEYFCAVNA
+>lcl|NG_001332.3_prot_13 [gene=TRAV9-1] [db_xref=GeneID:28678] [partial=3'] [exception=rearrangement required for product] [location=join(189599..189644,189783..>190074)] [gbkey=CDS]
+MNSSPGPAIALFLMFGGINGDSVVQTEGQVLPSEGDSLIVNCSYETTQYPSLFWYVQYPGEGPQLHLKAMKANDKGRNKGFEAMYRKETTSFHLEKDSVQESDSAVYFCALS
+>lcl|NG_001332.3_prot_14 [gene=TRAV10] [db_xref=GeneID:28676] [partial=3'] [exception=rearrangement required for product] [location=join(203605..203656,203882..>204172)] [gbkey=CDS]
+MKKHLTTFLVILWLYFYRGNGKNQVEQSPQSLIILEGKNCTLQCNYTVSPFSNLRWYKQDTGRGPVSLTIMTFSENTKSNGRYTATLDADTKQSSLHITASQLSDSASYICVVS
+>lcl|NG_001332.3_prot_15 [gene=TRAV11] [db_xref=GeneID:28675] [pseudo=true] [location=join(207636..207687,207881..208167)] [gbkey=CDS]
+-EKPLGVSFLISSWQLCWVNRLHTLEQSPSFLNIQEGMHAVLNCTYQERTLFNFHWFRQDPGRRLVSLTLIQSSQKEQGDKYFKELLGKEKFYSVWNIAASHLGDSATYFCAL
+>lcl|NG_001332.3_prot_16 [gene=TRAV12-1] [db_xref=GeneID:28674] [partial=3'] [exception=rearrangement required for product] [location=join(219340..219388,219584..>219871)] [gbkey=CDS]
+MISLRVLLVILWLQLSWVWSQRKEVEQDPGPFNVPEGATVAFNCTYSNSASQSFFWYRQDCRKEPKLLMSVYSSGNEDGRFTAQLNRASQYISLLIRDSKLSDSATYLCVVN
+>lcl|NG_001332.3_prot_17 [gene=TRAV8-2] [db_xref=GeneID:28684] [partial=3'] [exception=rearrangement required for product] [location=join(224859..224904,225024..>225318)] [gbkey=CDS]
+MLLLLVPVLEVIFTLGGTRAQSVTQLDSHVSVSEGTPVLLRCNYSSSYSPSLFWYVQHPNKGLQLLLKYTSAATLVKGINGFEAEFKKSETSFHLTKPSAHMSDAAEYFCVVS
+>lcl|NG_001332.3_prot_18 [gene=TRAV8-3] [db_xref=GeneID:28683] [partial=3'] [exception=rearrangement required for product] [location=join(230655..230700,230809..>231103)] [gbkey=CDS]
+MLLELIPLLGIHFVLRTARAQSVTQPDIHITVSEGASLELRCNYSYGATPYLFWYVQSPGQGLQLLLKYFSGDTLVQGIKGFEAEFKRSQSSFNLRKPSVHWSDAAEYFCAVGA
+>lcl|NG_001332.3_prot_19 [gene=TRAV13-1] [db_xref=GeneID:28671] [partial=3'] [exception=rearrangement required for product] [location=join(246959..247007,247175..>247462)] [gbkey=CDS]
+MTSIRAVFIFLWLQLDLVNGENVEQHPSTLSVQEGDSAVIKCTYSDSASNYFPWYKQELGKGPQLIIDIRSNVGEKKDQRIAVTLNKTAKHFSLHITETQPEDSAVYFCAAS
+>lcl|NG_001332.3_prot_20 [gene=TRAV12-2] [db_xref=GeneID:28673] [partial=3'] [exception=rearrangement required for product] [location=join(266056..266107,266309..>266599)] [gbkey=CDS]
+MMKSLRVLLVILWLQLSWVWSQQKEVEQNSGPLSVPEGAIASLNCTYSDRGSQSFFWYRQYSGKSPELIMFIYSNGDKEDGRFTAQLNKASQYVSLLIRDSQPSDSATYLCAVN
+>lcl|NG_001332.3_prot_21 [gene=TRAV8-4] [db_xref=GeneID:28682] [partial=3'] [exception=rearrangement required for product] [location=join(272658..272703,272833..>273127)] [gbkey=CDS]
+MLLLLVPVLEVIFTLGGTRAQSVTQLGSHVSVSEGALVLLRCNYSSSVPPYLFWYVQYPNQGLQLLLKYTSAATLVKGINGFEAEFKKSETSFHLTKPSAHMSDAAEYFCAVS
+>lcl|NG_001332.3_prot_22 [gene=TRAV8-5] [db_xref=GeneID:28681] [pseudo=true] [partial=3'] [location=join(281174..281223,281328..>282695)] [gbkey=CDS]
+MLLVLIPLLGIHFVLSENCQSPVSDPA*HPHHCL*RSLTGVEM*LFLWGDVVGSQGPQTEGPAEAMAEECGL*RFHGHLLVPQINTFIISYASLYCNL*T*IVKISWTLITSPINTPVISYACLYFNLLILSAEEDVCHLRTL**LC*LHKL*SMCVQTI*NLGTLKKEQDNSNVQGIREITLNSDCQ*ARRNRAIFLFFQKQMGEIWLNSFSQQGTSLGKRIRAWGWVYRRPPWVWPSSIVKTVGVK*IPVSHSTPRLIRKRKFPPNKFWSDWLLSKPCLLIRCYQ*QWCPKLH*QF*FRPSPVVL*SRPASICLVIFYYLVKYMISVTHTYSYTPSPFENQ**KLAGFAACGASRNLPTCDFSPGLPALKFLSFVLCPFISQASQNLGKIEKNLCDYRGRFPNTATPSLFWHVQSPGQGLQLLLKYFSGDTLVQGIEGFEAEFKRSQSSFNLRRPSVHWSDAAEYFCAAGT
+>lcl|NG_001332.3_prot_23 [gene=TRAV13-2] [db_xref=GeneID:28670] [partial=3'] [exception=rearrangement required for product] [location=join(296355..296403,296563..>296853)] [gbkey=CDS]
+MAGIRALFMYLWLQLDWVSRGESVGLHLPTLSVQEGDNSIINCAYSNSASDYFIWYKQESGKGPQFIIDIRSNMDKRQGQRVTVLLNKTVKHLSLQIAATQPGDSAVYFCAEN
+>lcl|NG_001332.3_prot_24 [gene=TRAV14DV4] [db_xref=GeneID:28669] [partial=3'] [exception=rearrangement required for product] [location=join(302235..302283,302448..>302748)] [gbkey=CDS]
+MSLSSLLKVVTASLWLGPGIAQKITQTQPGMFVQEKEAVTLDCTYDTSDPSYGLFWYKQPSSGEMIFLIYQGSYDQQNATEGRYSLNFQKARKSANLVISASQLGDSAMYFCAMREG
+>lcl|NG_001332.3_prot_25 [gene=TRAV9-2] [db_xref=GeneID:28677] [partial=3'] [exception=rearrangement required for product] [location=join(319281..319326,319463..>319754)] [gbkey=CDS]
+MNYSPGLVSLILLLLGRTRGDSVTQMEGPVTLSEEAFLTINCTYTATGYPSLFWYVQYPGEGLQLLLKATKADDKGSNKGFEATYRKETTSFHLEKGSVQVSDSAVYFCALS
+>lcl|NG_001332.3_prot_26 [gene=TRAV15] [db_xref=GeneID:28668] [pseudo=true] [location=join(328224..328273,328458..328751)] [gbkey=CDS]
+MYTYVTNLRVVHMYPRTGEQPPYSGVESFIHS*VSGRECTTFLIALMRRERSLNFYWFWQGLEKDLCL*P*FNQARWRRETNILKKRLEKRSFIVF*ICWSLILEIQAPTSVL*G
+>lcl|NG_001332.3_prot_27 [gene=TRAV12-3] [db_xref=GeneID:28672] [partial=3'] [exception=rearrangement required for product] [location=join(343604..343655,343868..>344158)] [gbkey=CDS]
+MMKSLRVLLVILWLQLSWVWSQQKEVEQDPGPLSVPEGAIVSLNCTYSNSAFQYFMWYRQYSRKGPELLMYTYSSGNKEDGRFTAQVDKSSKYISLFIRDSQPSDSATYLCAMS
+>lcl|NG_001332.3_prot_28 [gene=TRAV8-6] [db_xref=GeneID:28680] [partial=3'] [exception=rearrangement required for product] [location=join(356776..356821,356923..>357217)] [gbkey=CDS]
+MLLLLVPAFQVIFTLGGTRAQSVTQLDSQVPVFEEAPVELRCNYSSSVSVYLFWYVQYPNQGLQLLLKYLSGSTLVESINGFEAEFNKSQTSFHLRKPSVHISDTAEYFCAVS
+>lcl|NG_001332.3_prot_29 [gene=TRAV16] [db_xref=GeneID:28667] [partial=3'] [exception=rearrangement required for product] [location=join(368593..368638,368753..>369035)] [gbkey=CDS]
+MKPTLISVLVIIFILRGTRAQRVTQPEKLLSVFKGAPVELKCNYSYSGSPELFWYVQYSRQRLQLLLRHISRESIKGFTADLNKGETSFHLKKPFAQEEDSAMYYCALSG
+>lcl|NG_001332.3_prot_30 [gene=TRAV17] [db_xref=GeneID:28666] [partial=3'] [exception=rearrangement required for product] [location=join(375783..375834,375981..>376265)] [gbkey=CDS]
+METLLGVSLVILWLQLARVNSQQGEEDPQALSIQEGENATMNCSYKTSINNLQWYRQNSGRGLVHLILIRSNEREKHSGRLRVTLDTSKKSSSLLITASRAADTASYFCATD
+>lcl|NG_001332.3_prot_31 [gene=TRAV18] [db_xref=GeneID:28665] [partial=3'] [exception=rearrangement required for product] [location=join(381308..381353,381482..>381770)] [gbkey=CDS]
+MLSASCSGLVILLIFRRTSGDSVTQTEGPVTLPERAALTLNCTYQSSYSTFLFWYVQYLNKEPELLLKSSENQETDSRGFQASPIKSDSSFHLEKPSVQLSDSAVYYCALR
+>lcl|NG_001332.3_prot_32 [gene=TRAV19] [db_xref=GeneID:28664] [partial=3'] [exception=rearrangement required for product] [location=join(385726..385774,385978..>386278)] [gbkey=CDS]
+MLTASLLRAVIASICVVSSMAQKVTQAQTEISVVEKEDVTLDCVYETRDTTYYLFWYKQPPSGELVFLIRRNSFDEQNEISGRYSWNFQKSTSSFNFTITASQVVDSAVYFCALSEA
+>lcl|NG_001332.3_prot_33 [gene=TRAV20] [db_xref=GeneID:28663] [partial=3'] [exception=rearrangement required for product] [location=join(418760..418811,418966..>419250)] [gbkey=CDS]
+MEKMLECAFIVLWLQLGWLSGEDQVTQSPEALRLQEGESSSLNCSYTVSGLRGLFWYRQDPGKGPEFLFTLYSAGEEKEKERLKATLTKKESFLHITAPKPEDSATYLCAVQ
+>lcl|NG_001332.3_prot_34 [gene=TRAV21] [db_xref=GeneID:28662] [partial=3'] [exception=rearrangement required for product] [location=join(430618..430663,430864..>431153)] [gbkey=CDS]
+METLLGLLILWLQLQWVSSKQEVTQIPAALSVPEGENLVLNCSFTDSAIYNLQWFRQDPGKGLTSLLLIQSSQREQTSGRLNASLDKSSGRSTLYIAASQPGDSATYLCAVR
+>lcl|NG_001332.3_prot_35 [gene=TRAV22] [db_xref=GeneID:28661] [partial=3'] [exception=rearrangement required for product] [location=join(448787..448838,449027..>449305)] [gbkey=CDS]
+MKRILGALLGLLSAQVCCVRGIQVEQSPPDLILQEGANSTLRCNFSDSVNNLQWFHQNPWGQLINLFYIPSGTKQNGRLSATTVATERYSLLYISSSQTTDSGVYFCAVE
+>lcl|NG_001332.3_prot_36 [gene=TRAV23DV6] [db_xref=GeneID:28660] [partial=3'] [exception=rearrangement required for product] [location=join(464549..464600,464747..>465058)] [gbkey=CDS]
+MDKILGASFLVLWLQLCWVSGQQKEKSDQQQVKQSPQSLIVQKGGISIINCAYENTAFDYFPWYQQFPGKGPALLIAIRPDVSEKKEGRFTISFNKSAKQFSSHIMDSQPGDSATYFCAAS
+>lcl|NG_001332.3_prot_37 [gene=TRDV1] [db_xref=GeneID:28518] [partial=3'] [exception=rearrangement required for product] [location=join(474147..474195,474419..>474716)] [gbkey=CDS]
+MLFSSLLCVFVAFSYSGSSVAQKVTQAQSSVSMPVRKAVTLNCLYETSWWSYYIFWYKQLPSKEMIFLIRQGSDEQNAKSGRYSVNFKKAAKSVALTISALQLEDSAKYFCALGEL
+>lcl|NG_001332.3_prot_38 [gene=TRAV24] [db_xref=GeneID:28659] [partial=3'] [exception=rearrangement required for product] [location=join(483440..483494,483656..>483943)] [gbkey=CDS]
+MEKNPLAAPLLILWFHLDCVSSILNVEQSPQSLHVQEGDSTNFTCSFPSSNFYALHWYRWETAKSPEALFVMTLNGDEKKKGRISATLNTKEGYSYLYIKGSQPEDSATYLCAF
+>lcl|NG_001332.3_prot_39 [gene=TRAV25] [db_xref=GeneID:28658] [partial=3'] [exception=rearrangement required for product] [location=join(490520..490565,490848..>491128)] [gbkey=CDS]
+MLLITSMLVLWMQLSQVNGQQVMQIPQYQHVQEGEDFTTYCNSSTTLSNIQWYKQRPGGHPVFLIQLVKSGEVKKQKRLTFQFGEAKKNSSLHITATQTTDVGTYFCAG
+>lcl|NG_001332.3_prot_40 [gene=TRAV26-1] [db_xref=GeneID:28657] [partial=3'] [exception=rearrangement required for product] [location=join(501624..501663,502095..>502382)] [gbkey=CDS]
+MRLVARVTVFLTFGTIIDAKTTQPTSMDCAEGRAANLPCNHSTISGNEYVYWYRQIHSQGPQYIIHGLKNNETNEMASLIITEDRKSSTLILPHATLRDTAVYYCIVRV
+>lcl|NG_001332.3_prot_41 [gene=TRAV8-7] [db_xref=GeneID:28679] [partial=3'] [exception=rearrangement required for product] [location=join(510650..510695,510834..>511131)] [gbkey=CDS]
+MLLVVILLLGMFFTLRTRTQSVTQLDGHITVSEEAPLELKCNYSYSGVPSLFWYVQYSSQSLQLLLKDLTKATQVKGIRGFEAEFKKSETSFYLRKPSTHVSDAAEYFCAVGDR
+>lcl|NG_001332.3_prot_42 [gene=TRAV27] [db_xref=GeneID:28655] [partial=3'] [exception=rearrangement required for product] [location=join(526189..526234,526449..>526730)] [gbkey=CDS]
+MVLKFSVSILWIQLAWVSTQLLEQSPQFLSIQEGENLTVYCNSSSVFSSLQWYRQEPGEGPVLLVTVVTGGEVKKLKRLTFQFGDARKDSSLHITAAQTGDTGLYLCAG
+>lcl|NG_001332.3_prot_43 [gene=TRAV28] [db_xref=GeneID:28654] [pseudo=true] [partial=3'] [exception=rearrangement required for product] [location=join(533176..533227,533465..>533735)] [gbkey=CDS]
+MKALIGILLGFLWIQICSQMKVEQSPHVLILQEGRNSFLVCSCSIYMIRVQWFHQKPGGPLMSLFNINSGIQQKRRLKSAVKAEELYGHLYIRFPA*GLSYLLLCCG
+>lcl|NG_001332.3_prot_44 [gene=TRAV29DV5] [db_xref=GeneID:28653] [partial=3'] [exception=rearrangement required for product] [location=join(541446..541497,541662..>541967)] [gbkey=CDS]
+MAMLLGASVLILWLQPDWVNSQQKNDDQQVKQNSPSLSVQEGRISILNCDYTNSMFDYFLWYKKYPAEGPTFLISISSIKDKNEDGRFTVFLNKSAKHLSLHIVPSQPGDSAVYFCAAS
+>lcl|NG_001332.3_prot_45 [gene=TRAV30] [db_xref=GeneID:28652] [partial=3'] [exception=rearrangement required for product] [location=join(546526..546577,546801..>547085)] [gbkey=CDS]
+METLLKVLSGTLLWQLTWVRSQQPVQSPQAVILREGEDAVINCSSSKALYSVHWYRQKHGEAPVFLMILLKGGEQKGHDKISASFNEKKQQSSLYLTASQLSYSGTYFCGTE
+>lcl|NG_001332.3_prot_46 [gene=TRAV31] [db_xref=GeneID:28651] [pseudo=true] [location=join(555370..555418,555669..555961)] [gbkey=CDS]
+MTVGSILRALMASAFLACHRGSFNPNQQYLRRRVRP*NWTVHTKLILYITYCIGTKGLPMGRLFSSFISKQMQKPMRHRVNIL*ASRKQLKLFSLSYHHHSQKTCNIFLLSQRA
+>lcl|NG_001332.3_prot_47 [gene=TRAV32] [db_xref=GeneID:28650] [pseudo=true] [location=join(563659..563712,563869..564158)] [gbkey=CDS]
+MARRMEKSLGALFKFS*SWPRKGCDTELFKSKCLGERNGRY**QLYRWSFELFLLVQEENGEGPNILMEIHSNVDRKQDRRLTVLLNKNAKHVSLHITATQPGDSFLYFCAVRT
+>lcl|NG_001332.3_prot_48 [gene=TRAV33] [db_xref=GeneID:28649] [pseudo=true] [location=join(568255..568303,568522..568811)] [gbkey=CDS]
+MLCPGLLWAFVVPFGFRSSMAQKVTQVQTTVTRQKGVAVTLDCMFETR*NSYTLYWYKQQATSQ*RDGFPYSSGLF*VKCKACEL*KKEKVHQPHHQFLKTDSAKYFCALRNP
+>lcl|NG_001332.3_prot_49 [gene=TRAV26-2] [db_xref=GeneID:28656] [partial=3'] [exception=rearrangement required for product] [location=join(580680..580719,581179..>581465)] [gbkey=CDS]
+MKLVTSITVLLSLGIMGDAKTTQPNSMESNEEEPVHLPCNHSTISGTDYIHWYRQLPSQGPEYVIHGLTSNVNNRMASLAIAEDRKSSTLILHRATLRDAAVYYCILRD
+>lcl|NG_001332.3_prot_50 [gene=TRAV34] [db_xref=GeneID:28648] [partial=3'] [exception=rearrangement required for product] [location=join(585631..585682,585942..>586226)] [gbkey=CDS]
+METVLQVLLGILGFQAAWVSSQELEQSPQSLIVQEGKNLTINCTSSKTLYGLYWYKQKYGEGLIFLMMLQKGGEEKSHEKITAKLDEKKQQSSLHITASQPSHAGIYLCGAD
+>lcl|NG_001332.3_prot_51 [gene=TRAV35] [db_xref=GeneID:28647] [partial=3'] [exception=rearrangement required for product] [location=join(599993..600038,600289..>600572)] [gbkey=CDS]
+MLLEHLLIILWMQLTWVSGQQLNQSPQSMFTQEGEDVSMNCTSSSIFNT*LWYKQDPGEGPVLLIALYKAGELTSNGRLTAQFGITRKDSFLNISASIPSDVGIYFCAGQ
+>lcl|NG_001332.3_prot_52 [gene=TRAV36DV7] [db_xref=GeneID:28646] [partial=3'] [exception=rearrangement required for product] [location=join(604859..604910,605064..>605351)] [gbkey=CDS]
+MMKCPQALLAIFWLLLSWVSSEDKVVQSPLSLVVHEGDTVTLNCSYEVTNFRSLLWYKQEKKAPTFLFMLTSSGIEKKSGRLSSILDKKELFSILNITATQTGDSAIYLCAVE
+>lcl|NG_001332.3_prot_53 [gene=TRAV37] [db_xref=GeneID:28645] [pseudo=true] [location=join(643846..643897,644072..645270)] [gbkey=CDS]
+METPLSTLLLLLCVQLTWSNGQLPVEQNAPSLKVKEGDSVTLNCSYRDSPSDFFSGSGRILRKASFP*YKCYQL*ERRSVEDSQPGLKKETSTFPCTYRIPSSMTQPHSSAQQAHSAHSHLHPVPKAC*GAWAHLLL*GPWGTDYNSAAYKGKYEGLFYNIISNISFEDHVRKDSVFKYHLKYFVSQCEALPL*KLAQKLEAKYQKGESTKEQRKNRVKFLSLSFFVDFYKDIENTKS*KP*PSNSVVKGKIF*HAKKIGLEDQVPKSEGKLYKAFKGKENTTW*KSCLLLKRDKMPTS*LERKSMM*GEVINSESSILLFSRVRALSR*GGRRVSHI*Q*L*TEGTVNFGKNCFDHCVLYQYSQENAHYRGSIQQPCGQDGRSKACQPARECLCLSIS*TIDP*ID*LR*QIEFLY
+>lcl|NG_001332.3_prot_54 [gene=TRAV38-1] [db_xref=GeneID:28644] [partial=3'] [exception=rearrangement required for product] [location=join(650068..650116,650360..>650660)] [gbkey=CDS]
+MTRVSLLWAVVVSTCLESGMAQTVTQSQPEMSVQEAETVTLSCTYDTSENNYYLFWYKQPPSRQMILVIRQEAYKQQNATENRFSVNFQKAAKSFSLKISDSQLGDTAMYFCAFMK
+>lcl|NG_001332.3_prot_55 [gene=TRAV38-2DV8] [db_xref=GeneID:28643] [partial=3'] [exception=rearrangement required for product] [location=join(659248..659296,659546..>659845)] [gbkey=CDS]
+MACPGFLWALVISTCLEFSMAQTVTQSQPEMSVQEAETVTLSCTYDTSESDYYLFWYKQPPSRQMILVIRQEAYKQQNATENRFSVNFQKAAKSFSLKISDSQLGDAAMYFCAYRS
+>lcl|NG_001332.3_prot_56 [gene=TRAV39] [db_xref=GeneID:28642] [partial=3'] [exception=rearrangement required for product] [location=join(682151..682193,682363..>682650)] [gbkey=CDS]
+MKKLLAMILWLQLDRLSGELKVEQNPLFLSMQEGKNYTIYCNYSTTSDRLYWYRQDPGKSLESLFVLLSNGAVKQEGRLMASLDTKARLSTLHITAAVHDLSATYFCAVD
+>lcl|NG_001332.3_prot_57 [gene=TRAV40] [db_xref=GeneID:28641] [partial=3'] [exception=rearrangement required for product] [location=join(692587..692629,692743..>693016)] [gbkey=CDS]
+MNSSLDFLILILMFGGTSSNSVKQTGQITVSEGASVTMNCTYTSTGYPTLFWYVEYPSKPLQLLQRETMENSKNFGGGNIKDKNSPIVKYSVQVSDSAVYYCLLG
+>lcl|NG_001332.3_prot_58 [gene=TRAV41] [db_xref=GeneID:28640] [partial=3'] [exception=rearrangement required for product] [location=join(698285..698336,698505..>698788)] [gbkey=CDS]
+MVKIRQFLLAILWLQLSCVSAAKNEVEQSPQNLTAQEGEFITINCSYSVGISALHWLQQHPGGGIVSLFMLSSGKKKHGRLIATINIQEKHSSLHITASHPRDSAVYICAVR
+>lcl|NG_001332.3_prot_59 [gene=TRDV2] [db_xref=GeneID:28517] [partial=3'] [exception=rearrangement required for product] [location=join(800643..800688,800841..>801139)] [gbkey=CDS]
+MQRISSLIHLSLFWAGVMSAIELVPEHQTVPVSIGVPATLRCSMKGEAIGNYYINWYRKTQGNTMTFIYREKDIYGPGFKDNFQGDIDIAKNLAVLKILAPSERDEGSYYCACDT
+>lcl|NG_001332.3_prot_60 [gene=TRDD1] [db_xref=GeneID:28525] [partial=5',3'] [exception=rearrangement required for product] [location=<816644..>816651] [gbkey=CDS]
+EIV
+>lcl|NG_001332.3_prot_61 [gene=TRDD2] [db_xref=GeneID:28524] [partial=5',3'] [exception=rearrangement required for product] [location=<817104..>817112] [gbkey=CDS]
+PSY
+>lcl|NG_001332.3_prot_62 [gene=TRDD3] [db_xref=GeneID:28523] [partial=5',3'] [exception=rearrangement required for product] [location=<827210..>827222] [gbkey=CDS]
+TGGY
+>lcl|NG_001332.3_prot_63 [gene=TRDJ1] [db_xref=GeneID:28522] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<828186..>828236] [gbkey=CDS]
+TDKLIFGKGTRVTVEP
+>lcl|NG_001332.3_prot_64 [gene=TRDJ4] [db_xref=GeneID:28519] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<833346..>833393] [gbkey=CDS]
+RPLIFGKGTYLEVQQ
+>lcl|NG_001332.3_prot_65 [gene=TRDJ2] [db_xref=GeneID:28521] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<834786..>834839] [gbkey=CDS]
+LTAQLFFGKGTQLIVEP
+>lcl|NG_001332.3_prot_66 [gene=TRDJ3] [db_xref=GeneID:28520] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<837195..>837253] [gbkey=CDS]
+SWDTRQMFFGTGIKLFVEP
+>lcl|NG_001332.3_prot_67 [gene=TRDC] [db_xref=GeneID:28526] [frame=3] [partial=5'] [exception=rearrangement required for product] [location=join(<841029..841307,841871..841936,842301..842420,843630..844674)] [gbkey=CDS]
+SQPHTKPSVFVMKNGTNVACLVKEFYPKDIRINLVSSKKITEFDPAIVISPSGKYNAVKLGKYEDSNSVTCSVQHDNKTVHSTDFEVKTDSTDHVKPKETENTKQPSKSCHKPKAIVHTEKVNMMSLTVLGLRMLFAKTVAVNFLLTAKLFFL*G*LA*GSYTPEETKGLQKCISLASDFFVIQVDLS*PC*NGC*PNHFFFKDNKPSSSSSLMGRQKSWGRGVYVLTALYAVL*RDRRI*KDIGLFFYSYK*YTLKMMFCSF*LSLPFEVESGNQQVHSFIPHEANRPWEKKSGCPFI*TWKALLN*ALDLLQTSIIFFLLSSRLVPPSMFTSGATLEILHGVEEDKVSALSASPNTLQMRLHLNLLILYEQAMRFPKSHLNTLQSISKNQSKIQRKGTAFC*LI*HA*ISSL*VPGTMLRVQRRHKSAFKQLTVKVFLKGGTEMRPLSFPIKTTFLLSFACQSVFETIGH*FSGLGLWH*WFSAFLLSLCLYCIY*TALCA
+>lcl|NG_001332.3_prot_68 [gene=TRDV3] [db_xref=GeneID:28516] [partial=3'] [exception=rearrangement required for product] [location=complement(join(<847138..847441,847675..847711))] [gbkey=CDS]
+MILTVGFSFLFFYRGTLCDKVTQSSPDQTVASGSEVVLLCTYDTVYSNPDLFWYRIRPDYSFQFVFYGDNSRSEGADFTQGRFSVKHILTQKAFHLVISPVRTEDSATYYCAF
+>lcl|NG_001332.3_prot_69 [gene=TRAJ61] [db_xref=GeneID:28694] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<853413..>853472] [gbkey=CDS]
+YRVNRKLTFGANTRGIMKL
+>lcl|NG_001332.3_prot_70 [gene=TRAJ59] [db_xref=GeneID:28696] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<854650..>854703] [gbkey=CDS]
+KEGNRKFTFGMGTQVRV
+>lcl|NG_001332.3_prot_71 [gene=TRAJ58] [db_xref=GeneID:28697] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<855804..>855866] [gbkey=CDS]
+*ETSGSRLTFGEGTQLTVNP
+>lcl|NG_001332.3_prot_72 [gene=TRAJ57] [db_xref=GeneID:28698] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<856969..>857031] [gbkey=CDS]
+TQGGSEKLVFGKGTKLTVNP
+>lcl|NG_001332.3_prot_73 [gene=TRAJ56] [db_xref=GeneID:28699] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<857618..>857679] [gbkey=CDS]
+YTGANSKLTFGKGITLSVRP
+>lcl|NG_001332.3_prot_74 [gene=TRAJ54] [db_xref=GeneID:28701] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<860384..>860443] [gbkey=CDS]
+IQGAQKLVFGQGTRLTINP
+>lcl|NG_001332.3_prot_75 [gene=TRAJ53] [db_xref=GeneID:28702] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<861101..>861166] [gbkey=CDS]
+NSGGSNYKLTFGKGTLLTVNP
+>lcl|NG_001332.3_prot_76 [gene=TRAJ52] [db_xref=GeneID:28703] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<864325..>864393] [gbkey=CDS]
+NAGGTSYGKLTFGQGTILTVHP
+>lcl|NG_001332.3_prot_77 [gene=TRAJ50] [db_xref=GeneID:28705] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<866690..>866749] [gbkey=CDS]
+KTSYDKVIFGPGTSLSVIP
+>lcl|NG_001332.3_prot_78 [gene=TRAJ49] [db_xref=GeneID:28706] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<867585..>867640] [gbkey=CDS]
+NTGNQFYFGTGTSLTVIP
+>lcl|NG_001332.3_prot_79 [gene=TRAJ48] [db_xref=GeneID:28707] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<868588..>868650] [gbkey=CDS]
+SNFGNEKLTFGTGTRLTIIP
+>lcl|NG_001332.3_prot_80 [gene=TRAJ47] [db_xref=GeneID:28708] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<870948..>871004] [gbkey=CDS]
+EYGNKLVFGAGTILRVKS
+>lcl|NG_001332.3_prot_81 [gene=TRAJ46] [db_xref=GeneID:28709] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<871500..>871562] [gbkey=CDS]
+KKSSGDKLTFGTGTRLAVRP
+>lcl|NG_001332.3_prot_82 [gene=TRAJ45] [db_xref=GeneID:28710] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<872022..>872087] [gbkey=CDS]
+YSGGGADGLTFGKGTHLIIQP
+>lcl|NG_001332.3_prot_83 [gene=TRAJ44] [db_xref=GeneID:28711] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<872918..>872980] [gbkey=CDS]
+NTGTASKLTFGTGTRLQVTL
+>lcl|NG_001332.3_prot_84 [gene=TRAJ43] [db_xref=GeneID:28712] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<874010..>874063] [gbkey=CDS]
+NNNDMRFGAGTRLTVKP
+>lcl|NG_001332.3_prot_85 [gene=TRAJ42] [db_xref=GeneID:28713] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<874984..>875049] [gbkey=CDS]
+NYGGSQGNLIFGKGTKLSVKP
+>lcl|NG_001332.3_prot_86 [gene=TRAJ41] [db_xref=GeneID:28714] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<875754..>875815] [gbkey=CDS]
+NSNSGYALNFGKGTSLLVTP
+>lcl|NG_001332.3_prot_87 [gene=TRAJ40] [db_xref=GeneID:28715] [partial=5',3'] [exception=rearrangement required for product] [location=<877786..>877846] [gbkey=CDS]
+TTSGTYKYIFGTGTRLKVLA
+>lcl|NG_001332.3_prot_88 [gene=TRAJ39] [db_xref=GeneID:28716] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<879698..>879760] [gbkey=CDS]
+NNNAGNMLTFGGGTRLMVKP
+>lcl|NG_001332.3_prot_89 [gene=TRAJ38] [db_xref=GeneID:28717] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<880328..>880389] [gbkey=CDS]
+NAGNNRKLIWGLGTSLAVNP
+>lcl|NG_001332.3_prot_90 [gene=TRAJ37] [db_xref=GeneID:28718] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<881847..>881908] [gbkey=CDS]
+GSSNTGKLIFGQGTTLQVKP
+>lcl|NG_001332.3_prot_91 [gene=TRAJ36] [db_xref=GeneID:28719] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<883207..>883265] [gbkey=CDS]
+QTGANNLFFGTGTRLTVIP
+>lcl|NG_001332.3_prot_92 [gene=TRAJ35] [db_xref=GeneID:28720] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<884741..>884799] [gbkey=CDS]
+IGFGNVLHCGSGTQVIVLP
+>lcl|NG_001332.3_prot_93 [gene=TRAJ34] [db_xref=GeneID:28721] [partial=5',3'] [exception=rearrangement required for product] [location=<885763..>885820] [gbkey=CDS]
+SYNTDKLIFGTGTRLQVFP
+>lcl|NG_001332.3_prot_94 [gene=TRAJ33] [db_xref=GeneID:28722] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<886699..>886755] [gbkey=CDS]
+DSNYQLIWGAGTKLIIKP
+>lcl|NG_001332.3_prot_95 [gene=TRAJ32] [db_xref=GeneID:28723] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<887438..>887503] [gbkey=CDS]
+NYGGATNKLIFGTGTLLAVQP
+>lcl|NG_001332.3_prot_96 [gene=TRAJ31] [db_xref=GeneID:28724] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<889065..>889121] [gbkey=CDS]
+NNNARLMFGDGTQLVVKP
+>lcl|NG_001332.3_prot_97 [gene=TRAJ30] [db_xref=GeneID:28725] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<890949..>891005] [gbkey=CDS]
+NRDDKIIFGKGTRLHILP
+>lcl|NG_001332.3_prot_98 [gene=TRAJ29] [db_xref=GeneID:28726] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<892036..>892095] [gbkey=CDS]
+NSGNTPLVFGKGTRLSVIA
+>lcl|NG_001332.3_prot_99 [gene=TRAJ28] [db_xref=GeneID:28727] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<893720..>893785] [gbkey=CDS]
+YSGAGSYQLTFGKGTKLSVIP
+>lcl|NG_001332.3_prot_100 [gene=TRAJ27] [db_xref=GeneID:28728] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<894370..>894428] [gbkey=CDS]
+NTNAGKSTFGDGTTLTVKP
+>lcl|NG_001332.3_prot_101 [gene=TRAJ26] [db_xref=GeneID:28729] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<896543..>896602] [gbkey=CDS]
+DNYGQNFVFGPGTRLSVLP
+>lcl|NG_001332.3_prot_102 [gene=TRAJ25] [db_xref=GeneID:28730] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<896909..>896968] [gbkey=CDS]
+EGQGFSFIFGKGTRLLVKP
+>lcl|NG_001332.3_prot_103 [gene=TRAJ24] [db_xref=GeneID:28731] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<898066..>898128] [gbkey=CDS]
+TTDSWGKFQFGAGTQVVVTP
+>lcl|NG_001332.3_prot_104 [gene=TRAJ23] [db_xref=GeneID:28732] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<898513..>898575] [gbkey=CDS]
+IYNQGGKLIFGQGTELSVKP
+>lcl|NG_001332.3_prot_105 [gene=TRAJ22] [db_xref=GeneID:28733] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<900137..>900199] [gbkey=CDS]
+SSGSARQLTFGSGTQLTVLP
+>lcl|NG_001332.3_prot_106 [gene=TRAJ21] [db_xref=GeneID:28734] [partial=5',3'] [exception=rearrangement required for product] [location=<901697..>901751] [gbkey=CDS]
+YNFNKFYFGSGTKLNVKP
+>lcl|NG_001332.3_prot_107 [gene=TRAJ20] [db_xref=GeneID:28735] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<902422..>902478] [gbkey=CDS]
+SNDYKLSFGAGTTVTVRA
+>lcl|NG_001332.3_prot_108 [gene=TRAJ19] [db_xref=GeneID:28736] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<903360..>903419] [gbkey=CDS]
+YQRFYNFTFGKGSKHNVTP
+>lcl|NG_001332.3_prot_109 [gene=TRAJ18] [db_xref=GeneID:28737] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<903747..>903812] [gbkey=CDS]
+DRGSTLGRLYFGRGTQLTVWP
+>lcl|NG_001332.3_prot_110 [gene=TRAJ17] [db_xref=GeneID:28738] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<904941..>905003] [gbkey=CDS]
+IKAAGNKLTFGGGTRVLVKP
+>lcl|NG_001332.3_prot_111 [gene=TRAJ16] [db_xref=GeneID:28739] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<906624..>906683] [gbkey=CDS]
+FSDGQKLLFARGTMLKVDL
+>lcl|NG_001332.3_prot_112 [gene=TRAJ15] [db_xref=GeneID:28740] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<907726..>907785] [gbkey=CDS]
+NQAGTALIFGKGTTLSVSS
+>lcl|NG_001332.3_prot_113 [gene=TRAJ14] [db_xref=GeneID:28741] [partial=5',3'] [exception=rearrangement required for product] [location=<908424..>908475] [gbkey=CDS]
+IYSTFIFGSGTRLSVKP
+>lcl|NG_001332.3_prot_114 [gene=TRAJ13] [db_xref=GeneID:28742] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<909173..>909235] [gbkey=CDS]
+NSGGYQKVTFGTGTKLQVIP
+>lcl|NG_001332.3_prot_115 [gene=TRAJ12] [db_xref=GeneID:28743] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<910036..>910095] [gbkey=CDS]
+MDSSYKLIFGSGTRLLVRP
+>lcl|NG_001332.3_prot_116 [gene=TRAJ11] [db_xref=GeneID:28744] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<910599..>910658] [gbkey=CDS]
+NSGYSTLTFGKGTMLLVSP
+>lcl|NG_001332.3_prot_117 [gene=TRAJ10] [db_xref=GeneID:28745] [partial=5',3'] [exception=rearrangement required for product] [location=<911594..>911657] [gbkey=CDS]
+ILTGGGNKLTFGTGTQLKVEL
+>lcl|NG_001332.3_prot_118 [gene=TRAJ9] [db_xref=GeneID:28746] [partial=5',3'] [exception=rearrangement required for product] [location=<913651..>913711] [gbkey=CDS]
+GNTGGFKTIFGAGTRLFVKA
+>lcl|NG_001332.3_prot_119 [gene=TRAJ8] [db_xref=GeneID:28747] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<914242..>914301] [gbkey=CDS]
+NTGFQKLVFGTGT*LLVSP
+>lcl|NG_001332.3_prot_120 [gene=TRAJ7] [db_xref=GeneID:28748] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<915719..>915777] [gbkey=CDS]
+DYGNNRLAFGKGNQVVVIP
+>lcl|NG_001332.3_prot_121 [gene=TRAJ6] [db_xref=GeneID:28749] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<917170..>917231] [gbkey=CDS]
+ASGGSYIPTFGRGTSLIVHP
+>lcl|NG_001332.3_prot_122 [gene=TRAJ5] [db_xref=GeneID:28750] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<918344..>918403] [gbkey=CDS]
+DTGRRALTFGSGTRLQVQP
+>lcl|NG_001332.3_prot_123 [gene=TRAJ4] [db_xref=GeneID:28751] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<920296..>920358] [gbkey=CDS]
+FSGGYNKLIFGAGTRLAVHP
+>lcl|NG_001332.3_prot_124 [gene=TRAJ3] [db_xref=GeneID:28752] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<921276..>921337] [gbkey=CDS]
+GYSSASKIIFGSGTRLSIRP
+>lcl|NG_001332.3_prot_125 [gene=TRAJ2] [db_xref=GeneID:28753] [frame=3] [partial=5',3'] [exception=rearrangement required for product] [location=<922168..>922233] [gbkey=CDS]
+NTGGTIDKLTFGKGTHVFIIS
+>lcl|NG_001332.3_prot_126 [gene=TRAJ1] [db_xref=GeneID:28754] [frame=2] [partial=5',3'] [exception=rearrangement required for product] [location=<923134..>923195] [gbkey=CDS]
+YESITSQLQFGKGTRVSTSP
+>lcl|NG_001332.3_prot_127 [gene=TRAC] [db_xref=GeneID:28755] [frame=3] [partial=5'] [exception=rearrangement required for product] [location=join(<925603..925876,927735..927779,928654..928761)] [gbkey=CDS]
+IQNPDPAVYQLRDSKSSDKSVCLFTDFDSQTNVSQSKDSDVYITDKTVLDMRSMDFKSNSAVAWSNKSDFACANAFNNSIIPEDTFFPSPGKFL*CQAGREKL*NRYEPKLSKPVSDWVPNPPPESGRV*SAHDAAAVVQL
